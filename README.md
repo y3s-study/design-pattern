@@ -7,5 +7,18 @@
 - **자바 객체지향 디자인 패턴** (UML과 GoF 디자인 패턴 핵심 10가지로 배우는) - 정인상, 채흥석 공저
 - http://www.yes24.com/24/goods/12501269?scode=032&OzSrank=4
 
-## 발표 자료 업로드
-- 작성 예정
+## 발표 자료 링크
+### Chapter 1. 객체지향 모델링
+### Chapter 2. 객체지향 원리
+### Chapter 3. SOLID 원칙
+### Chapter 4. 디자인 패턴
+### Chapter 5. 스트래티지 패턴(Strategy pattern)
+### Chapter 6. 싱글턴 패턴(Singleton pattern)
+### Chapter 7. 스테이트 패턴(State pattern)
+### Chapter 8. 커맨드 패턴(Command pattern)
+### Chapter 9. 옵저버 패턴(Observer pattern)
+### Chapter 10. 데커레이터 패턴(Decorator pattern)
+### Chapter 11. 템플릿 메서드 패턴(Template method pattern)
+### Chapter 12. 팩토리 메서드 패턴(Factory method pattern)
+### Chapter 13. 추상 팩토리 패턴(Abstract factory pattern)
+### Chapter 14. 컴퍼지트 패턴(Composite pattern)
