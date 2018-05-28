@@ -7,7 +7,7 @@
 - **자바 객체지향 디자인 패턴** (UML과 GoF 디자인 패턴 핵심 10가지로 배우는) - 정인상, 채흥석 공저
 - http://www.yes24.com/24/goods/12501269?scode=032&OzSrank=4
 
-## 발표 자료 링크
+## 발표 자료
 ### Chapter 1. 객체지향 모델링
 ### Chapter 2. 객체지향 원리
 ### Chapter 3. SOLID 원칙
