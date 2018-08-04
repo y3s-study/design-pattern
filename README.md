@@ -19,6 +19,7 @@
 ### Chapter 5. 스트래티지 패턴(Strategy pattern)
 ### Chapter 6. 싱글턴 패턴(Singleton pattern)
 ### Chapter 7. 스테이트 패턴(State pattern)
+- https://slides.com/youngjunpark/state-pattern#/ (박영준)
 ### Chapter 8. 커맨드 패턴(Command pattern)
 ### Chapter 9. 옵저버 패턴(Observer pattern)
 ### Chapter 10. 데커레이터 패턴(Decorator pattern)
