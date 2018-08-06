@@ -17,6 +17,7 @@
 ### Chapter 4. 디자인 패턴
 - https://slides.com/youngjunpark/design-petterns#/ (박영준)
 ### Chapter 5. 스트래티지 패턴(Strategy pattern)
+- https://slides.com/ssbslides/strategy-pattern#/ (송성빈)
 ### Chapter 6. 싱글턴 패턴(Singleton pattern)
 ### Chapter 7. 스테이트 패턴(State pattern)
 - https://slides.com/youngjunpark/state-pattern#/ (박영준)
