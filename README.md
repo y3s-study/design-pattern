@@ -27,6 +27,7 @@
 ### Chapter 9. 옵저버 패턴(Observer pattern)
 ### Chapter 10. 데커레이터 패턴(Decorator pattern)
 ### Chapter 11. 템플릿 메서드 패턴(Template method pattern)
+- https://slides.com/youngjunpark/template-method-pattern#/ (박영준)
 ### Chapter 12. 팩토리 메서드 패턴(Factory method pattern)
 ### Chapter 13. 추상 팩토리 패턴(Abstract factory pattern)
 ### Chapter 14. 컴퍼지트 패턴(Composite pattern)
