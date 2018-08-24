@@ -25,6 +25,7 @@
 ### Chapter 8. 커맨드 패턴(Command pattern)
 - https://docs.google.com/presentation/d/1mlbNuOImr9gGOkAkZWRmEiiCK4Nr-X7Sh_hCli4T9VE/edit?ouid=100317895637474126587&usp=slides_home&ths=true (조성국)
 ### Chapter 9. 옵저버 패턴(Observer pattern)
+https://slides.com/ssbslides/observer-pattern#/ (송성빈)
 ### Chapter 10. 데커레이터 패턴(Decorator pattern)
 ### Chapter 11. 템플릿 메서드 패턴(Template method pattern)
 - https://slides.com/youngjunpark/template-method-pattern#/ (박영준)
