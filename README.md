@@ -33,3 +33,5 @@ https://slides.com/ssbslides/observer-pattern#/ (송성빈)
 ### Chapter 13. 추상 팩토리 패턴(Abstract factory pattern)
 ### Chapter 14. 컴퍼지트 패턴(Composite pattern)
 - https://slides.com/ssbslides/composite-pattern#/ (송성빈)
+### 기타
+- https://slides.com/youngjunpark/design-pattern-in-practice#/ (박영준)
